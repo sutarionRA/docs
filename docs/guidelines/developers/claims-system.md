@@ -76,6 +76,17 @@ Each developer is allowed four primary claims. Junior developers are allowed one
 - If a developer makes a revision or subset claim, the claim can be set to "Own Revision" depending on criteria I haven't copy-pasted into this section yet.
 - Collaboration claims.
 
+## Special Claims
+
+Special claims are granted during a console rollout and select developer events.  These claims do not count against the maximum claim allotment.
+
+- Special claims made during a console rollout are expected to be completed during the rollout period.
+- Rollout claims that are not completed within 7 days of the rollout launch will be changed to a normal claim at the end of the rollout. Other special claims will expire after a duration specified by their applicable events or follow rollout claim rules if unspecified.
+- Special claims that are converted to a normal claim are immediately subject to standard claim rules.
+- Developers must prioritize maintenance of rollout sets during the 3 month release window following the rollout.  Tickets should be addressed within 7 days.
+- Abandoning a set after release will result in exclusion from future rollouts.  Participation and claim priority in future rollouts may be granted again at the discretion of the Rollout Team once the sets are restored to the guidelines set by the Dev-Compliance team.
+- If there are extenuating circumstances that might prevent a developer from meeting these requirements, Dev-Compliance may grant an extension upon request.
+
 ## Important Notes
 
 - It is recommended that you post a complete plan in the forum topic. When doing so, be open to suggestions; you can get excellent input and suggestions this way.
